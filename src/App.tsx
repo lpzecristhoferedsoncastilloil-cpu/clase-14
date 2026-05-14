@@ -5,7 +5,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>Color Tools</h1>
+      <h1>Color </h1>
       <ColorHarmonizer />
       <hr />
       <ContrastChecker />
